@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Üzenet</title>
+    <style>
+        .nagybetus {
+            font-size: 48px;
+            text-transform: uppercase;
+        }
+    </style>
+</head>
+<body>
+    <div class="nagybetus">Hahaha Donat Bescammelt</div>
+</body>
+</html>
